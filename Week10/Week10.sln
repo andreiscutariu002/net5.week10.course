@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week10.Generics.App01", "Week10.Generics.App01\Week10.Generics.App01.csproj", "{DA5D27C9-5C3E-4569-A0A8-6579E72A0B2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week09.XML.Serialization", "Week09.XML.Serialization\Week09.XML.Serialization.csproj", "{40D3132B-B8BC-4E4D-8BE2-0E90F44D7E41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA5D27C9-5C3E-4569-A0A8-6579E72A0B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA5D27C9-5C3E-4569-A0A8-6579E72A0B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA5D27C9-5C3E-4569-A0A8-6579E72A0B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA5D27C9-5C3E-4569-A0A8-6579E72A0B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40D3132B-B8BC-4E4D-8BE2-0E90F44D7E41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D3132B-B8BC-4E4D-8BE2-0E90F44D7E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D3132B-B8BC-4E4D-8BE2-0E90F44D7E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D3132B-B8BC-4E4D-8BE2-0E90F44D7E41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {220373FE-1362-4EF8-AF45-684644519F29}
+	EndGlobalSection
+EndGlobal
