@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week10.Generics.App01", "We
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week09.XML.Serialization", "Week09.XML.Serialization\Week09.XML.Serialization.csproj", "{40D3132B-B8BC-4E4D-8BE2-0E90F44D7E41}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week10.Generics.App02", "Week10.Generics.App02\Week10.Generics.App02.csproj", "{4DE0724C-B2BC-4354-8327-AA3E44E84574}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week10.Generics.App03", "Week10.Generics.App03\Week10.Generics.App03.csproj", "{2A899B56-F9E7-4333-9319-14103337CB47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{40D3132B-B8BC-4E4D-8BE2-0E90F44D7E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40D3132B-B8BC-4E4D-8BE2-0E90F44D7E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40D3132B-B8BC-4E4D-8BE2-0E90F44D7E41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DE0724C-B2BC-4354-8327-AA3E44E84574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DE0724C-B2BC-4354-8327-AA3E44E84574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DE0724C-B2BC-4354-8327-AA3E44E84574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DE0724C-B2BC-4354-8327-AA3E44E84574}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A899B56-F9E7-4333-9319-14103337CB47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A899B56-F9E7-4333-9319-14103337CB47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A899B56-F9E7-4333-9319-14103337CB47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A899B56-F9E7-4333-9319-14103337CB47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

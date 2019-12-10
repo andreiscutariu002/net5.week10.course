@@ -37,7 +37,11 @@
 
             // xml
 
-            XmlSerializer xmlSerializer = new XmlSerializer(typeof(List<Book>));
+            var typeOfListBook1 = list.GetType();
+            var typeOfListBook = typeof(List<Book>);
+            var typeOfBook = typeof(Book);
+
+            XmlSerializer xmlSerializer = new XmlSerializer(typeOfListBook);
 
             // stream de scriere [unde o sa scriem in timp ce serializam]
             StringWriter stringWriter = new StringWriter(); 

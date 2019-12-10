@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DA5D27C9-5C3E-4569-A0A8-6579E72A0B2F}</ProjectGuid>
+    <ProjectGuid>{4DE0724C-B2BC-4354-8327-AA3E44E84574}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Week10.Generics.App01</RootNamespace>
-    <AssemblyName>Week10.Generics.App01</AssemblyName>
+    <RootNamespace>Week10.Generics.App02</RootNamespace>
+    <AssemblyName>Week10.Generics.App02</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,10 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Book.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Publisher.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
