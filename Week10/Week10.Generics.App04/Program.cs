@@ -32,6 +32,11 @@ namespace Week10.Generics.App04
             this.array[this.currentElemIdx] = value;
             this.currentElemIdx++;
         }
+
+        public T GetAt(int idx)
+        {
+            return this.array[idx];
+        }
     }
 
     class Program
